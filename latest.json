@@ -1,7 +1,7 @@
 {
-  "version": "0.9.3",
-  "download_url": "https://raw.githubusercontent.com/vagmargutti-create/formatch-updates/main/FORMATCH_v0.9.3.zip",
-  "sha256": "c2d33d0feed4c8dd2350289e7daaa84289347195fbec9a540a7cdd7182982cd5",
-  "notes": "Atualizador reforçado: preserva o ambiente, restaura em caso de falha, registra diagnóstico e reabre o FORMATCH automaticamente.",
+  "version": "0.9.4",
+  "download_url": "https://raw.githubusercontent.com/vagmargutti-create/formatch-updates/main/FORMATCH_v0.9.4.zip",
+  "sha256": "05e78e12fdb965c84790daf0a6acf37418c9192c3698bc8fbda96fe16684aa05",
+  "notes": "Correção definitiva do fechamento: encerra a tarefa de download antes da instalação e impede espera indefinida.",
   "encoding": "zip"
 }
