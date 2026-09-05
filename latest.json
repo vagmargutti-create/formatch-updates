@@ -1,7 +1,7 @@
 {
-  "version": "0.9.4",
-  "download_url": "https://raw.githubusercontent.com/vagmargutti-create/formatch-updates/main/FORMATCH_v0.9.4.zip",
-  "sha256": "05e78e12fdb965c84790daf0a6acf37418c9192c3698bc8fbda96fe16684aa05",
-  "notes": "Correção definitiva do fechamento: encerra a tarefa de download antes da instalação e impede espera indefinida.",
+  "version": "0.9.5",
+  "download_url": "https://raw.githubusercontent.com/vagmargutti-create/formatch-updates/main/FORMATCH_v0.9.5.zip",
+  "sha256": "79b42672c5a5310ebb861dc78392f9549c09e2e777bbbfacadc4435f5d1aadc6",
+  "notes": "Descarte organizado nas abas Manter, Descarte e Sugestões. Cenas semelhantes com enquadramentos diferentes agora aguardam sua conferência.",
   "encoding": "zip"
 }
