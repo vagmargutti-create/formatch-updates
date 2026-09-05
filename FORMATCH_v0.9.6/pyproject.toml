@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "distribuidor-formatura"
+version = "0.9.6"
+description = "Distribuidor local de fotos de formatura por reconhecimento facial"
+requires-python = ">=3.10,<3.13"
+dependencies = [
+  "numpy>=1.26,<3",
+  "opencv-python>=4.9,<5",
+  "insightface>=0.7.3,<0.8",
+  "onnxruntime-gpu[cuda,cudnn]>=1.21,<2",
+  "PySide6>=6.7,<7",
+  "Pillow>=10,<13",
+  "scipy>=1.11,<2",
+]
+
+[project.scripts]
+distribuidor-formatura = "formatura_distribuidor.app:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

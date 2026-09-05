@@ -1,7 +1,7 @@
 {
-  "version": "0.9.5",
-  "download_url": "https://raw.githubusercontent.com/vagmargutti-create/formatch-updates/main/FORMATCH_v0.9.5.zip",
-  "sha256": "79b42672c5a5310ebb861dc78392f9549c09e2e777bbbfacadc4435f5d1aadc6",
-  "notes": "Descarte organizado nas abas Manter, Descarte e Sugestões. Cenas semelhantes com enquadramentos diferentes agora aguardam sua conferência.",
+  "version": "0.9.6",
+  "download_url": "https://raw.githubusercontent.com/vagmargutti-create/formatch-updates/main/FORMATCH_v0.9.6.zip",
+  "sha256": "b70266b5a6ebebaaae571041a51e26bfcbfd689afa672ba8550482db928bb81e",
+  "notes": "Correção de compatibilidade do atualizador com o PowerShell padrão do Windows, mantendo as novas abas do descarte.",
   "encoding": "zip"
 }
