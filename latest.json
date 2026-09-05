@@ -1,7 +1,7 @@
 {
-  "version": "0.9.6",
-  "download_url": "https://raw.githubusercontent.com/vagmargutti-create/formatch-updates/main/FORMATCH_v0.9.6.zip",
-  "sha256": "b70266b5a6ebebaaae571041a51e26bfcbfd689afa672ba8550482db928bb81e",
-  "notes": "Correção de compatibilidade do atualizador com o PowerShell padrão do Windows, mantendo as novas abas do descarte.",
+  "version": "0.9.7",
+  "download_url": "https://raw.githubusercontent.com/vagmargutti-create/formatch-updates/main/FORMATCH_v0.9.7.zip",
+  "sha256": "48a0ec79cbaf3419a42aaaf589087ea775a51adcaba6b1bcf901283747d5eab1",
+  "notes": "A aba Sugestões agora possui opções para selecionar ou desmarcar todas as fotos de uma só vez.",
   "encoding": "zip"
 }
